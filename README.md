@@ -13,7 +13,7 @@ Poor posture is a modern-day epidemic. Research has shown that children as young
 In this project detect your posture with webcam pointed at the side view of the person.
 
 ## Technologies Used
-OpenVINO
-OpenCV
+- OpenVINO
+- OpenCV
 
 [![image](https://github.com/cabelo/bopa/assets/675645/5bead695-4936-430f-8b8d-95ab7c2c994e)](https://www.youtube.com/watch?v=pcGHPQPWAb0)
