@@ -12,7 +12,7 @@ Poor posture is a modern-day epidemic. Research has shown that children as young
 ## Methodology / Approach
 In this project detect your posture with webcam pointed at the side view of the person.
 
-##Technologies Used
+## Technologies Used
 OpenVINO
 OpenCV
 
